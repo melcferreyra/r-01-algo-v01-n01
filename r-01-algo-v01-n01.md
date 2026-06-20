@@ -2,7 +2,9 @@
 
 TAPA A4 JPG PNG 96/194 DPI
 logo revista 250dpi
-completar datos autor
+completar datos autor orcid @ pertenencia académica
+
+doi
 E-ISSN
 SUBTITLE
 INSTITUCION EDIT
