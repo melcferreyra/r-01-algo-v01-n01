@@ -17,9 +17,9 @@ El presente estudio analiza la relación entre las condiciones de acceso digital
 
 La noción de "brecha digital" surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai [@2565-HARGITTAI2002] introdujo el concepto de "brecha digital de segundo nivel" para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.
 
-Warschauer [@2562-WARSCHAUER2004] profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.
+Warschauer [-@2562-WARSCHAUER2004] profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.
 
-Más recientemente, van Dijk [@2563-VANDIJK2020] consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.
+Más recientemente, van Dijk [-@2563-VANDIJK2020] consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.
 
 ## La brecha digital en la educación superior latinoamericana
 
@@ -103,29 +103,29 @@ Las implicancias para la política universitaria son claras: las estrategias de 
 
 Formato 1: cita básica — normal
 
-La transformación digital impacta en múltiples dimensiones organizacionales [@CASADO-GONZALEZ-2017]. Este formato ya funcionaba antes del fix y sirve como control.
+La transformación digital impacta en múltiples dimensiones organizacionales [@2565-HARGITTAI2002]. Este formato ya funcionaba antes del fix y sirve como control.
 Formato 2: supresión de autor [-@key]
 
-Como señala Salas [-@SALAS-2018], la transformación digital no debe confundirse con la simple digitalización de procesos. Lafonte [-@LAFONTE-2020] aborda esta distinción en el contexto logístico argentino.
+Como señala Salas [-@2565-HARGITTAI2002], la transformación digital no debe confundirse con la simple digitalización de procesos. Lafonte [-@2564-VANDEURSEN2019] aborda esta distinción en el contexto logístico argentino.
 Formato 3: cita con localizador de página
 
-El fenómeno ha sido estudiado en profundidad [@FITZGERALD-2013, p. 5]. También se han analizado las competencias necesarias [@FONSECA-2020, pp. 55-60].
+El fenómeno ha sido estudiado en profundidad [@2565-HARGITTAI2002, p. 5]. También se han analizado las competencias necesarias [@2564-VANDEURSEN2019, pp. 55-60].
 Formato 4: supresión de autor con localizador [-@key, p. N]
 
-Mahmood [-@MAHMOOD-2019, p. 235] clasifica los desafíos en tres categorías. Suárez Kimura [-@SUAREZ-KIMURA-2007, pp. 225-230] analiza el impacto en la actividad contable.
+Mahmood [-@2565-HARGITTAI2002, p. 235] clasifica los desafíos en tres categorías. Suárez Kimura [-@2564-VANDEURSEN2019, pp. 225-230] analiza el impacto en la actividad contable.
 Formato 5: prefijo textual [ver @key]
 
-Para un análisis detallado del contexto regional [ver @DGESTA-SALTA-2019]. Este formato requiere que el parser encuentre el @ dentro del bloque aunque no sea el primer carácter.
+Para un análisis detallado del contexto regional [ver @2565-HARGITTAI2002]. Este formato requiere que el parser encuentre el @ dentro del bloque aunque no sea el primer carácter.
 Formato 6: múltiples citas en un bloque
 
-Diversos autores han abordado la cuestión desde perspectivas complementarias [@CASADO-GONZALEZ-2017; @FITZGERALD-2013]. Este formato ya funcionaba antes del fix.
+Diversos autores han abordado la cuestión desde perspectivas complementarias [@2565-HARGITTAI2002; @2564-VANDEURSEN2019]. Este formato ya funcionaba antes del fix.
 Formato 7: múltiples con supresión parcial
 
-Fitzgerald et al. y Fonseca [@FITZGERALD-2013; -@FONSECA-2020] coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.
+Fitzgerald et al. y Fonseca [@2565-HARGITTAI2002; -@2564-VANDEURSEN2019] coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.
 Formato 8: prefijo textual con múltiples citas
 
-Las estadísticas provinciales disponibles [ver @DGESTA-SALTA-2019; @MAHMOOD-2019] ofrecen un marco comparativo útil.
+Las estadísticas provinciales disponibles [ver @2565-HARGITTAI2002; @2564-VANDEURSEN2019] ofrecen un marco comparativo útil.
 Formato 9: combinaciones mixtas
 
-La literatura reciente [@CASADO-GONZALEZ-2017; @FITZGERALD-2013; -@FONSECA-2020] muestra convergencia en los hallazgos principales. Suárez Kimura [-@SUAREZ-KIMURA-2007, p. 228] anticipa varios de estos resultados desde el campo contable
+La literatura reciente [@2565-HARGITTAI2002; @2564-VANDEURSEN2019; -@FONSECA-2020] muestra convergencia en los hallazgos principales. Suárez Kimura [-@SUAREZ-KIMURA-2007, p. 228] anticipa varios de estos resultados desde el campo contable
 :::
