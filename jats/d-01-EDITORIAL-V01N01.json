@@ -1,0 +1,36 @@
+{
+  "bibjson": {
+    "title": "Las deudas pendientes de la digitalización en América Latina",
+    "abstract": "La pandemia de COVID-19 aceleró la digitalización en América Latina y evidenció las desigualdades existentes en el acceso, uso y apropiación de tecnologías digitales. Este editorial analiza cómo la expansión de la conectividad no logró eliminar brechas vinculadas a ingresos, territorio, competencias digitales y disponibilidad de dispositivos. Se plantea que la transformación digital requiere políticas públicas integrales que articulen infraestructura, formación, capacidades institucionales y contenidos pertinentes, evitando reproducir desigualdades preexistentes. Los artículos reunidos en este número abordan estas tensiones y contribuyen al debate sobre los desafíos pendientes de la inclusión digital en la región.",
+    "year": "2026",
+    "month": "junio",
+    "keywords": [
+      "transformación digital; brecha digital; América Latina; desigualdad; inclusión digital"
+    ],
+    "author": [
+      {
+        "name": "Ferreyra, Melisa",
+        "orcid_id": "https://orcid.org/0000-0002-1825-0097"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "2618-3137"},
+      {"type": "doi", "id": "10.1080/10749039.2021.1908364"}
+    ],
+    "journal": {
+      "title": "Actualidad Latinoamericana",
+      "publisher": "Facultad de Filosofìa y Letras",
+      "volume": "01",
+      "number": "01",
+      "start_page": "1",
+      "end_page": "4"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://melcferreyra.github.io/r-01-algo-v01-n01/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

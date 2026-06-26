@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <front xmlns:xlink="http://www.w3.org/1999/xlink">
   <journal-meta>
+    <journal-id journal-id-type="publisher-id">2618-3137</journal-id>
     <journal-title-group>
-      <journal-title>Revista</journal-title>
+      <journal-title>Actualidad Latinoamericana</journal-title>
     </journal-title-group>
+    <issn pub-type="epub">2618-3137</issn>
     <publisher>
+      <publisher-name>Facultad de Filosofìa y Letras</publisher-name>
+      <publisher-loc>Buenos Aires, Argentina</publisher-loc>
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.1080/03080188.2021.1872874</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>research-article</subject>
@@ -25,16 +30,51 @@
           <surname>Ferreyra</surname>
           <given-names>Melisa</given-names>
         </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1825-0097</contrib-id>
+        <aff>
+          <institution content-type="dept">Edición</institution>,
+          <institution>Universidad de Buenos Aires</institution>,
+          <city>Buenos Aires</city>,
+          <country>Argentina</country>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
-      <month>06</month>
       <year>2026</year>
+      <month>06</month>
+      <day>26</day>
     </pub-date>
     <volume>01</volume>
     <issue>01</issue>
+    <fpage>5</fpage>
+    <lpage>10</lpage>
+    <history>
+      <date date-type="received">
+        <day>05</day>
+        <month>05</month>
+        <year>2026</year>
+      </date>
+      <date date-type="rev-recd">
+        <day>01</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="accepted">
+        <day>29</day>
+        <month>05</month>
+        <year>2026</year>
+      </date>
+      <date date-type="pub">
+        <day>26</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+    </history>
     <permissions>
       <copyright-year>2026</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+        <license-p>CC BY 4.0</license-p>
+      </license>
     </permissions>
     <abstract xml:lang="es">
       <p>Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</p>

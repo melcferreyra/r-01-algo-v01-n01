@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01N01-20260626175846</doi_batch_id>
+      <timestamp>20260626175846</timestamp>
+      <depositor>
+         <depositor_name>Facultad de Filosofìa y Letras</depositor_name>
+         <email_address>revistas@filo.uba.ar</email_address>
+      </depositor>
+      <registrant>Facultad de Filosofìa y Letras, UBA</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Actualidad Latinoamericana</full_title>
+            <issn media_type="electronic">2618-3137</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>26</day>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Las deudas pendientes de la digitalización en América Latina</title>
+               <original_language_title language="en">The Unresolved Challenges of Digitalization in Latin America</original_language_title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Melisa</given_name>
+                  <surname>Ferreyra</surname>
+                  <ORCID authenticated="true">https://orcid.org/0000-0002-1825-0097</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">La pandemia de COVID-19 aceleró la digitalización en América Latina y evidenció las desigualdades existentes en el acceso, uso y apropiación de tecnologías digitales. Este editorial analiza cómo la expansión de la conectividad no logró eliminar brechas vinculadas a ingresos, territorio, competencias digitales y disponibilidad de dispositivos. Se plantea que la transformación digital requiere políticas públicas integrales que articulen infraestructura, formación, capacidades institucionales y contenidos pertinentes, evitando reproducir desigualdades preexistentes. Los artículos reunidos en este número abordan estas tensiones y contribuyen al debate sobre los desafíos pendientes de la inclusión digital en la región.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">The COVID-19 pandemic accelerated digitalization in Latin America and exposed existing inequalities in access to, use of, and engagement with digital technologies. This editorial examines how the expansion of connectivity has not eliminated gaps related to income, territory, digital skills, and device availability. It argues that digital transformation requires comprehensive public policies that integrate infrastructure, training, institutional capacities, and relevant content, avoiding the reproduction of pre-existing inequalities. The articles gathered in this issue address these tensions and contribute to the debate on the ongoing challenges of digital inclusion in the region.</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>26</day>
+               <year>2026</year>
+            </publication_date>
+            <pages>
+               <first_page>1</first_page>
+               <last_page>4</last_page>
+            </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.1080/10749039.2021.1908364</doi>
+               <resource content_version="vor" mime_type="text/html">https://melcferreyra.github.io/r-01-algo-v01-n01/</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>

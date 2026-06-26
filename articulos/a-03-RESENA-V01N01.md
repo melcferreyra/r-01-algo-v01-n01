@@ -3,7 +3,11 @@
 
 ## Reseña bibliográfica
 
+::: {.case id="nombrelibro"}
+
 Souza, Jessé. *A elite do atraso: da escravidão à Lava Jato*. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.
+
+:::
 
 **Presentación y contexto**
 
@@ -21,6 +25,7 @@ Uno de los aportes más sugerentes del libro es la noción de "ralé" (*canalla*
 Desde una perspectiva latinoamericana más amplia, el libro plantea preguntas que exceden el caso brasileño. La relación entre élites económicas, producción intelectual y legitimación del orden social es un problema compartido por todas las sociedades de la región. ¿En qué medida las ciencias sociales latinoamericanas han contribuido, inadvertidamente, a naturalizar las desigualdades que pretenden explicar? ¿Cuánto de lo que se presenta como análisis desinteresado de la cultura nacional opera, en realidad, como justificación del privilegio?
 
 El libro no está exento de debilidades. La crítica a Freyre, Buarque de Holanda y Faoro, aunque estimulante, resulta por momentos esquemática: al subordinar la lectura de estos autores a la demostración de su tesis, Souza tiende a simplificar obras de considerable complejidad. La categoría de "ralé", por su parte, si bien tiene poder descriptivo, plantea problemas analíticos que el libro no resuelve del todo: ¿se trata de una clase en sentido estricto o de una condición social? ¿Cuáles son sus fronteras empíricas? Finalmente, el tono polémico que recorre toda la obra ---y que sin duda contribuyó a su éxito editorial--- puede resultar excesivo para un público académico habituado a la argumentación matizada.
+
 
 **Conclusión**
 

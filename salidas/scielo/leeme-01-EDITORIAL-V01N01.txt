@@ -1,0 +1,41 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 18:03:00
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Las deudas pendientes de la digitalización en América Latina
+Autor(es): Ferreyra, Melisa
+Archivo:   01-EDITORIAL-V01N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: (no definido)
+ISSN:            2618-3137
+URL canónica:    https://melcferreyra.github.io/r-01-algo-v01-n01/
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 2618-3137--01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  2618-3137--01-01-00001.xml — XML SciELO PS 1.9
+  2618-3137--01-01-00001.pdf — PDF final
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   0
+  Style errors: presentes
+
+OBSERVACIONES
+------------------------------------------------------------
+  ADVERTENCIA: La revista no tiene acrónimo SciELO definido.
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org

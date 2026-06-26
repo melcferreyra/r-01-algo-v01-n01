@@ -13,4 +13,5 @@ Este número de la revista reúne contribuciones que abordan distintas aristas d
 
 [^1]: Según estimaciones de la CEPAL, en 2022 el costo del servicio de banda ancha para la población del primer quintil de ingresos representaba en promedio el 14% de su ingreso mensual en la región, una proporción que vuelve inviable cualquier pretensión de universalidad efectiva.
 
+
 :::

@@ -1,0 +1,31 @@
+{
+  "bibjson": {
+    "title": "A elite do atraso: da escravidão à Lava Jato, de Jessé Souza",
+    "year": "2026",
+    "author": [
+      {
+        "name": "Ferreyra, Melisa",
+        "orcid_id": "https://orcid.org/0000-0002-1825-0097"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "2618-3137"},
+      {"type": "doi", "id": "10.1177/02673231251409702"}
+    ],
+    "journal": {
+      "title": "Actualidad Latinoamericana",
+      "publisher": "Facultad de Filosofìa y Letras",
+      "volume": "01",
+      "number": "01",
+      "start_page": "11",
+      "end_page": "13"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://melcferreyra.github.io/r-01-algo-v01-n01/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

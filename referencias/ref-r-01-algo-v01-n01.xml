@@ -195,25 +195,6 @@
       <year>2020</year>
     </element-citation>
   </ref>
-  <ref id="2564-VANDEURSEN2018">
-    <element-citation publication-type="journal">
-      <person-group person-group-type="author">
-        <name>
-          <surname>vanDeursen</surname>
-          <given-names>Alexander JAM</given-names>
-        </name>
-      </person-group>
-      <article-title>The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access</article-title>
-      <source>New Media &amp; Society</source>
-      <year>2018</year>
-      <volume>21</volume>
-      <issue>2</issue>
-      <fpage>354</fpage>
-      <lpage>375</lpage>
-      <issn>1461-4448</issn>
-      <pub-id pub-id-type="doi">10.1177/1461444818797082</pub-id>
-    </element-citation>
-  </ref>
   <ref id="2565-HARGITTAI2002">
     <element-citation publication-type="journal">
       <person-group person-group-type="author">
@@ -241,6 +222,44 @@
       <source>Tecnologías digitales para un nuevo futuro</source>
       <year>2021</year>
       <pub-id pub-id-type="report-number">43</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2567-VANDEURSEN2018">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>van Deursen</surname>
+          <given-names>A. J. A. M.</given-names>
+        </name>
+        <name>
+          <surname>van Dijk</surname>
+          <given-names>J. A. G. M.</given-names>
+        </name>
+      </person-group>
+      <article-title>The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access</article-title>
+      <source>New Media &amp;amp; Society</source>
+      <year>2018</year>
+      <volume>21</volume>
+      <issue>2</issue>
+      <fpage>354</fpage>
+      <lpage>375</lpage>
+      <issn>1461-4448</issn>
+      <pub-id pub-id-type="doi">10.1177/1461444818797082</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2568-SOUZA2017">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Souza</surname>
+          <given-names>Jessé</given-names>
+        </name>
+      </person-group>
+      <source>A elite do atraso: da escravidão à Lava Jato</source>
+      <publisher-name>Leya</publisher-name>
+      <publisher-loc>São Paulo</publisher-loc>
+      <year>2017</year>
+      <isbn>978-85-441-0408-1</isbn>
     </element-citation>
   </ref>
 </ref-list>

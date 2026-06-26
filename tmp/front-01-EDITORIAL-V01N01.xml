@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <front xmlns:xlink="http://www.w3.org/1999/xlink">
   <journal-meta>
+    <journal-id journal-id-type="publisher-id">2618-3137</journal-id>
     <journal-title-group>
-      <journal-title>Revista</journal-title>
+      <journal-title>Actualidad Latinoamericana</journal-title>
     </journal-title-group>
+    <issn pub-type="epub">2618-3137</issn>
     <publisher>
+      <publisher-name>Facultad de Filosofìa y Letras</publisher-name>
+      <publisher-loc>Buenos Aires, Argentina</publisher-loc>
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.1080/10749039.2021.1908364</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>editorial</subject>
@@ -15,6 +20,9 @@
     </article-categories>
     <title-group>
       <article-title>Las deudas pendientes de la digitalización en América Latina</article-title>
+      <trans-title-group xml:lang="en">
+        <trans-title>The Unresolved Challenges of Digitalization in Latin America</trans-title>
+      </trans-title-group>
     </title-group>
     <contrib-group>
       <contrib contrib-type="author" id="a1">
@@ -22,17 +30,72 @@
           <surname>Ferreyra</surname>
           <given-names>Melisa</given-names>
         </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1825-0097</contrib-id>
+        <aff>
+          <institution content-type="dept">Edición</institution>,
+          <institution>Universidad de Buenos Aires</institution>,
+          <city>Buenos Aires</city>,
+          <country>Argentina</country>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
-      <month>06</month>
       <year>2026</year>
+      <month>06</month>
+      <day>26</day>
     </pub-date>
     <volume>01</volume>
     <issue>01</issue>
+    <fpage>1</fpage>
+    <lpage>4</lpage>
+    <history>
+      <date date-type="received">
+        <day>05</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="rev-recd">
+        <day>17</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="accepted">
+        <day>09</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="pub">
+        <day>26</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+    </history>
     <permissions>
       <copyright-year>2026</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+        <license-p>CC BY 4.0</license-p>
+      </license>
     </permissions>
+    <abstract xml:lang="es">
+      <p>La pandemia de COVID-19 aceleró la digitalización en América Latina y evidenció las desigualdades existentes en el acceso, uso y apropiación de tecnologías digitales. Este editorial analiza cómo la expansión de la conectividad no logró eliminar brechas vinculadas a ingresos, territorio, competencias digitales y disponibilidad de dispositivos. Se plantea que la transformación digital requiere políticas públicas integrales que articulen infraestructura, formación, capacidades institucionales y contenidos pertinentes, evitando reproducir desigualdades preexistentes. Los artículos reunidos en este número abordan estas tensiones y contribuyen al debate sobre los desafíos pendientes de la inclusión digital en la región.</p>
+    </abstract>
+    <trans-abstract xml:lang="en">
+      <p>The COVID-19 pandemic accelerated digitalization in Latin America and exposed existing inequalities in access to, use of, and engagement with digital technologies. This editorial examines how the expansion of connectivity has not eliminated gaps related to income, territory, digital skills, and device availability. It argues that digital transformation requires comprehensive public policies that integrate infrastructure, training, institutional capacities, and relevant content, avoiding the reproduction of pre-existing inequalities. The articles gathered in this issue address these tensions and contribute to the debate on the ongoing challenges of digital inclusion in the region.</p>
+    </trans-abstract>
+    <kwd-group xml:lang="es" kwd-group-type="author-generated">
+      <kwd>transformación digital</kwd>
+      <kwd>brecha digital</kwd>
+      <kwd>América Latina</kwd>
+      <kwd>desigualdad</kwd>
+      <kwd>inclusión digital</kwd>
+    </kwd-group>
+    <kwd-group xml:lang="en" kwd-group-type="author-generated">
+      <kwd>digital transformation</kwd>
+      <kwd>digital divide</kwd>
+      <kwd>Latin America</kwd>
+      <kwd>inequality</kwd>
+      <kwd>digital inclusion</kwd>
+    </kwd-group>
     <custom-meta-group>
       <custom-meta>
         <meta-name>xml-lang</meta-name>
