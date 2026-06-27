@@ -1,1 +1,14 @@
-<ref-list/>
+<ref-list xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ref id="bib-2566-CEPAL2021">
+    <element-citation publication-type="report">
+      <person-group person-group-type="author">
+        <name>
+          <surname>CEPAL</surname>
+        </name>
+      </person-group>
+      <source>Tecnologías digitales para un nuevo futuro</source>
+      <year>2021</year>
+      <pub-id pub-id-type="report-number">43</pub-id>
+    </element-citation>
+  </ref>
+</ref-list>

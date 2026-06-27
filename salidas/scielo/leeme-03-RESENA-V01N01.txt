@@ -1,12 +1,12 @@
 PAQUETE SCIELO — construido con gbpublisher
 ============================================================
-Generado: 2026-06-26 22:19:02
+Generado: 2026-06-26 22:54:43
 
 DATOS DEL ARTÍCULO
 ------------------------------------------------------------
-Título:    Las deudas pendientes de la digitalización en América Latina
+Título:    A elite do atraso: da escravidão à Lava Jato, de Jessé Souza
 Autor(es): Ferreyra, Melisa
-Archivo:   01-EDITORIAL-V01N01
+Archivo:   03-RESENA-V01N01
 
 DATOS DE LA REVISTA
 ------------------------------------------------------------
@@ -16,25 +16,24 @@ URL canónica:    https://melcferreyra.github.io/r-01-algo-v01-n01/
 
 NOMENCLATURA SCIELO
 ------------------------------------------------------------
-PID: 2618-3137-SCIELO_DEMO-01-01-00001
+PID: 2618-3137-SCIELO_DEMO-01-01-00011
 
 CONTENIDO DEL ZIP
 ------------------------------------------------------------
-  2618-3137-SCIELO_DEMO-01-01-00001.xml — XML SciELO PS 1.9
-  2618-3137-SCIELO_DEMO-01-01-00001.pdf — PDF final
+  2618-3137-SCIELO_DEMO-01-01-00011.xml — XML SciELO PS 1.9
+  2618-3137-SCIELO_DEMO-01-01-00011.pdf — PDF final
 
 VALIDACIÓN PACKTOOLS STYLECHECKER
 ------------------------------------------------------------
-  Estado:       NO VÁLIDO
-  DTD errors:   presentes
+  Estado:       VÁLIDO — is_valid: true
+  DTD errors:   0
   Style errors: 0
 
 OBSERVACIONES
 ------------------------------------------------------------
   ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+  Sin observaciones — el paquete está listo para enviar a SciELO.
 
 PRÓXIMOS PASOS
 ------------------------------------------------------------
-  1. Corregir los errores indicados arriba
-  2. Regenerar el paquete desde gbpublisher
-  3. Enviar el ZIP a scielo@scielo.org
+  1. Enviar el ZIP a scielo@scielo.org

@@ -235,7 +235,7 @@
                      xlink:href="https://creativecommons.org/licenses/by/4.0/">
                <license-p>
       
-      CC BY 4.0
+      CC by 4.0
      
      </license-p>
             </license>
@@ -324,8 +324,13 @@
       <p>
    
    América Latina llegó a la pandemia con una infraestructura digital profundamente desigual. Mientras las capitales y las grandes áreas metropolitanas disponían de conexiones de banda ancha razonablemente estables, vastas zonas rurales e incluso periferias urbanas carecían de conectividad básica. La brecha no era solo de acceso físico: se manifestaba también en las competencias digitales de la población, en la disponibilidad de dispositivos adecuados y en la capacidad institucional para sostener servicios en línea de manera continua y segura.
-  
-  </p>
+   
+   <xref ref-type="bibr" rid="bib-2566-CEPAL2021">
+    
+    2566-CEPAL2021
+   
+   </xref>
+      </p>
       <p>
    
    Tres años después del momento más agudo de la crisis sanitaria, el balance resulta ambivalente. Por un lado, se registró una expansión significativa de la conectividad: varios países de la región superaron tasas de penetración de Internet que parecían lejanas a comienzos de 2020. Por otro, las desigualdades de uso —lo que la literatura especializada denomina “brecha digital de segundo nivel”— no solo persistieron sino que, en algunos casos, se profundizaron. Los sectores de menores ingresos accedieron mayoritariamente a través de teléfonos móviles con planes de datos limitados, lo que restringía severamente sus posibilidades de participar en actividades educativas, laborales o de ejercicio ciudadano que demandan conexiones estables y pantallas de mayor tamaño.
@@ -353,4 +358,36 @@ efectiva.
   
   </p>
    </body>
+   <back>
+      <ref-list>
+         <ref id="bib-2566-CEPAL2021">
+            <element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>
+        
+        CEPAL
+       
+       </surname>
+                  </name>
+               </person-group>
+               <source>
+      
+      Tecnologías digitales para un nuevo futuro
+     
+     </source>
+               <year>
+      
+      2021
+     
+     </year>
+               <pub-id pub-id-type="report-number">
+      
+      43
+     
+     </pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
 </article>

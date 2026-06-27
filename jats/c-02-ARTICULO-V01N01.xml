@@ -860,7 +860,7 @@
     
     La noción de “brecha digital” surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai 
     
-    <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002" specific-use="author-in-text||">
+    <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002" specific-use="suppress||">
      
      2565-HARGITTAI2002
     
@@ -1744,7 +1744,7 @@
     
     El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai 
     
-    <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002">
+    <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002" specific-use="suppress||">
      
      2565-HARGITTAI2002
     
@@ -2285,7 +2285,7 @@
      
      <source>
       
-      New Media \&amp; Society
+      New Media y Society
      
      </source>
      
